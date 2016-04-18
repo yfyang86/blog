@@ -167,3 +167,5 @@ donuts_plot(browsers$share,rep(1,11),browsers$version,cols=subcolors(browsers,"b
 donuts_plot(browsers$share,rep(1,11),browsers$version,cols=subcolors(browsers,"browser",mainCol),legend=F,pilabels = T,borderlit = rep(F,4) )
 donuts_plot(arr$share,rep(1,5),arr$browser,cols=mainCol,pilabels=F,legend=T,legend_offset=.01,outradius = .71,radius = .0,innerradius=.0,add=T,borderlit = rep(F,4) )
 ```
+
+![png](https://yifanyang.files.wordpress.com/2016/04/041616_1856_donutplot6.png?w=584)
