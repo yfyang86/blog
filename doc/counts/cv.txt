@@ -1,0 +1,70 @@
+Yifan Yang
+300 Alumni Drive Apt 166, Lexington, KY, 40503
+Phone: (859)494-4072
+Email: yfyang.86@gmail.com
+Personal page: http://sweb.uky.edu/~yya234
+Github: yfyang86
+
+HIGHLIGHTS OF QUALIFICATION
+•	More than seven years’ experience in statistical modeling, solid statistical methods including but not limited to linear regression model, logistic regression model, mixed model, survival analysis and time series, and machine learning method such as SVM, NN, boosting, and random forest;
+•	More than five years’ experience in data management, and familiar with different data-base systems;
+•	Passionate with strong self-motivation, perform well under multi-tasking scenario and projects prioritizing;
+•	Good team player, can work closely with cross-functional team to solve the scientific question
+•	Proficiency in project development using R, Python, MySQL, Java, Linux shell, C/C++, Tableau, VBA.
+
+EXPERIENCES
+•	Internship, NIH/National Heart, Lung, and Blood Institute                                              06/2014 - 07/2014
+Worked extensions of Cox-Model with non-proportional hazards.
+o	Developed a high performance R package using R/C++ and openMP/R parallel to implement and compared several extensions of proportional hazard model.
+o	Performed optimization algorithms such as Newton-Raphson, interior point method and iterative convex minorant to existing models and evaluated the model/algorithm performance.
+o	Verified and demonstrated the theoretical and practical advantage of model by Yang and Prentice, which greatly extends proportional hazard model to be used in the survival analysis. 
+
+•	Graduate Research Assistant, Department of Statistics, University of Kentucky            05/2013 - 12/2014
+Worked as a statistician on Kentucky Violent Death Reporting System
+o	Worked on data management for Kentucky Violent Death Reporting System, including data manipulating, data cleaning, and data base import/export using SAS/Excel/VBA/R/Python.
+o	Illustrated descriptive statistics/graph/tables to analyze the violent death for epidemiologic reports.
+o	Develop Python GUI and VBA macros to perform statistical analysis and trained colleagues to maintain the data management and statistical analysis system.
+o	Providing data management and illustrating statistical analysis: extracting/exporting data from/into SQL and performing (generalized) linear model/categorical data analysis/mixed model/survey model.
+
+•	Project founder, BioStaCs Group, USTC      	                                                                  06/2010 - Present
+Worked on bioinformatics/biostatistics topics with large-scale data and developed algorithms
+o	Collaborated with biology researchers to make experiment design and feature planning.
+o	Wrote statistical reports for submission to National Natural Science Foundation of China and contributed statistical and machine learning analysis to several publications.
+o	Trained diverse categorical data/machine learning models include but not limited to GLM, mixed model, mixture mode, boosting, neural network, SVM, random forest, LASSO, and deep learning. 
+o	Designed and implemented novel variable selection approaches.
+o	Developed programs under Linux (Centos/RHEL) using shell, python, R with SQL support.
+o	Participated development of web-based service for BioStaCs designed GWAS visualization tools.
+
+EDUCATION
+•	University of Kentucky                                                                                   09/2011 – Expected 05/2016
+       PhD Candidate in Statistics Program, Department of Statistics   
+•	University of Science and Technology of China (USTC)                                               08/2008 - 05/2011
+       MS in Statistics, Department of Statistics and Finance
+•	University of Science and Technology of China (USTC)                                               09/2004 - 06/2008
+       BS in Statistics, Department of Statistics and Finance
+
+PROJECTS/OTHER EXPERIENCES
+•	Graduate Research Assistant, Department of Statistics, University of Kentucky                   02/2015-Present
+Working on Peripheral Vascular Disease: Public Health/Marketing Campaign Project
+o	This is an on-going project, and my job is to provide data management and illustrate statistical analysis, i.e. extracting data from Tableau to MS Access SQL for statistical analysis (e.g. spatial analysis/time series).
+
+•	Teaching Assistant
+o	Department of Statistics, University of Kentucky                                                         07/2011 - 05/2013
+       Introduction to Statistical Reasoning, Basic Stat Analysis
+o	Department of Statistics and Finance, USTC                                                               09/2008 - 05/2010
+       Time Series, Probability
+
+•	Program Development                                                                                                     08/2008 - Present
+       All program is available on my GitHub page or my personal development page.
+o	kmc(on CRAN): Created a novel recursive algorithm to solve constraint Kaplan Meier in R/C++;
+o	coxext: Developed a package implement and compare several extensions of proportional hazard model, which is part of my intern project using EM algorithm, and convex optimization;
+o	MAPS and ARTP3: Cooperated with several biostatisticians for multi-locus association test problem using parallel computing. I am responsible for the binary mapped file reading and some of parallel computing part only.
+
+PUBLICATION
+Zhou, M., Yang, Y. (2015). A Recursive Formula for the Kaplan-Meier Estimator with Mean Constraints. Computational Statistics, 30.4 (2015): 1097-1109.
+Zhu, S., Yang, Y., Zhou, M. (2015). A Note on Empirical Likelihood Inference on the Hazards Ratio with Non-proportional Hazards. Biometrics 71.3 (2015): 859-563.
+Zhang,Y., Yang, Y. , Xu, B., Zang, Q., and et al, & Shi, Q (2016). IsomiR Bank: A research resource for tracking isomiRs, Bioinformatics (accepted)
+Hua, J., Xu, B., Yang, Y., Ban, R., Iqbal, F., Cooke, H. J., ... & Shi, Q. (2015). Follicle Online: an integrated database of follicle assembly, development and ovulation. Database, 2015, bav036
+Zhang, Y., Zhong, L., Xu, B., Yang, Y., Ban, R., Zhu, J., et al. & Shi, Q. (2013). SpermatogenesisOnline 1.0: a resource for spermatogenesis based on manual literature curation and genome-wide data mining. Nucleic acids research,41(D1), D1055-D1062.
+Zhang, Y., Xu, B., Yang, Y., Ban, R., Zhang, H., Jiang, X., et al. & Shi, Q. (2012). CPSS: a computational platform for the analysis of small RNA deep sequencing data. Bioinformatics, 28(14), 1925-1927.
+Zhang, Y., Yang, Y., Zhang, H., Jiang, X., Xu, B., Xue, Y., et al. & Shi, Q. (2011). Prediction of novel pre-microRNAs with high accuracy through boosting and SVM. Bioinformatics, 27(10), 1436-1437.
