@@ -100,7 +100,7 @@ Example 2 Donut chart for share of web browsers and their subversions.
 The original post could be found on [stackorflow](http://stackoverflow.com/questions/26748069/ggplot2-pie-and-donut-chart-on-same-plot).
 The target plot is
 
-![donut1](./target_donuts.png)
+![donut1](http://i.stack.imgur.com/Yx83O.png)
 
 The dataset is 
 
